@@ -34,6 +34,9 @@ BurpGPT 是一个强大的 Burp Suite 扩展，利用 AI 技术检测传统扫�
 - ✅ **中文文档支持**：提供完整的中文使用说明
 - ✅ **配置验证**：防止配置错误
 
+  <img width="2800" height="1238" alt="image" src="https://github.com/user-attachments/assets/b5c4baee-82a1-49bf-906a-476e98965346" />
+
+
 ## 📦 安装使用
 
 ### 系统要求
